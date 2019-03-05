@@ -62,6 +62,8 @@ def draw_line(rule_nb, first, second, length):
     001101101101101101101
     >>> draw_line(14, 1, 0, 22)
     1011011011011011011011
+    >>> draw_line(14, 1, 0, 200)
+    10110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110
     '''
     rule = rule_encoded_by(rule_nb)
     line = f'{first}{second}'
@@ -99,21 +101,21 @@ def uniquely_produced_by_rule(line):
     -1
     >>> uniquely_produced_by_rule('0010001')
     -1
+    >>> uniquely_produced_by_rule('1011011011011011011011')
+    -1
     '''
-    rule = [(1, 1), (1, 0), (0, 1), (0, 0)]
-    t = 0
-    try:
-        for i in range(len(rule)):
-            index = line.index(f'{rule[i][0]}{rule[i][1]}', 0, len(line) - 1)
-            value = int(line[index + 2])
-            for j in range(index + 1, len(line) - 2):
-                if line[j:j + 2] == f'{rule[i][0]}{rule[i][1]}' and line[j + 2] != f'{value}':
-                    return -1
-            t += value * 2 ** i
-    except ValueError:
+    rule = dict()
+    for i in range(len(line)-2):
+        if line[i:i+2] in rule and rule[line[i:i+2]] != int(line[i+2]):
+            return -1
+        rule[line[i:i+2]] = int(line[i+2])
+    if len(rule) != 4:
         return -1
+    sorted_rule = [rule[i] for i in sorted(rule.keys(), reverse=True)]
+    t = 0
+    for i in range(len(sorted_rule)):
+        t += 2**i*sorted_rule[i]
     return t
-    # REPLACE pass ABOVE WITH YOUR CODE
 
 
 if __name__ == '__main__':
