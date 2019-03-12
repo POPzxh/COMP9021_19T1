@@ -102,7 +102,7 @@ def max_int_jumping_in(L):
     >>> max_int_jumping_in(L_2)
     1120023126310191781317
     """
-    return max([built_int(i, L) for i in range(len(L))])
+    return max(built_int(i, L) for i in range(len(L)))
     # REPLACE pass ABOVE WITH  YOUR CODE
 
 # seed(arg_for_seed)
