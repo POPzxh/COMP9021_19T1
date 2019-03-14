@@ -14,6 +14,9 @@ from random import seed, randint, randrange
 
 def length_of_longest_increasing_sequence(L):
     """
+    >>> L_1 = []
+    >>> length_of_longest_increasing_sequence(L_1)
+    0
     >>> L_1 = [3]
     >>> length_of_longest_increasing_sequence(L_1)
     1
@@ -45,7 +48,7 @@ def length_of_longest_increasing_sequence(L):
     >>> length_of_longest_increasing_sequence(L_1)
     6
     """
-    longest = 1
+    longest = 0
     i = 0
     while i < len(L):
 
@@ -77,6 +80,9 @@ def built_int(start, l):
 
 def max_int_jumping_in(L):
     """
+    >>> L_2 = []
+    >>> max_int_jumping_in(L_2)
+
     >>> L_2 = [3, 3, 2, 3]
     >>> max_int_jumping_in(L_2)
     33
@@ -102,6 +108,8 @@ def max_int_jumping_in(L):
     >>> max_int_jumping_in(L_2)
     1120023126310191781317
     """
+    if len(L) == 0:
+        return 
     return max(built_int(i, L) for i in range(len(L)))
     # REPLACE pass ABOVE WITH  YOUR CODE
 
