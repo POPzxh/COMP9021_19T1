@@ -1,7 +1,7 @@
 # COMP9021_19T2
 Quiz and assignment of UNSW COMP9021 19T1
 
-###Tutor找上门，觉悟在个人。
+### Tutor找上门，觉悟在个人。
 ### 群里的狗管理，多学着点。
 
 ![](IMG_3192.JPG)
