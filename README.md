@@ -1,6 +1,6 @@
 # 欢迎大家加零广告学习交流群
 
-这里有思路分析（due前）和代码分享（due后），最最最重要的是**没有广告**。
+目前群里有接近90个人，这里有思路分析（due前）和代码分享（due后），最最最重要的是**没有广告**。
 
 最后希望大家也不要在广告群里进行答疑回复和资料分享。
 
@@ -42,3 +42,5 @@ This repository only for giving you some hints. Please **DO NOT** submit those c
 你踢你:horse:呢？我又没在你这个群里发，SB。
 
 ![](IMG_3192.JPG)
+
+
