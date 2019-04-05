@@ -77,1475 +77,1475 @@ Enter two integers: Here is the grid that has been generated:
     1 1 1 1 1 1 1 1 0 1
     1 1 1 1 1 1 1 1 0 1
 The largest isosceles triangle has a size of 3
->>> print(os.popen('echo 93 6| python3 quiz_6.py').read(), end='')
+>>> print(os.popen('echo 0 6| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 0 0 1 1 1
-    1 0 1 1 1 0 1 1 0 1
-    1 1 1 1 0 1 0 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 0 0 0 1 1 1 0
-    0 0 1 1 1 0 1 1 1 1
-    1 1 1 1 1 1 1 0 1 1
-    1 1 1 1 1 1 1 1 0 1
-    1 1 1 1 1 1 0 1 0 1
-    1 0 1 1 0 0 1 1 1 0
-The largest isosceles triangle has a size of 4
->>> print(os.popen('echo 93 7| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    0 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 0 1 1
-    1 1 1 0 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 0
-    1 0 1 0 0 1 0 0 1 1
-    1 1 1 1 0 1 0 1 1 1
-    1 1 0 1 1 1 1 1 1 1
-    1 0 1 0 1 0 1 1 1 0
-    1 1 0 0 1 1 1 0 1 1
-The largest isosceles triangle has a size of 4
->>> print(os.popen('echo 93 8| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    0 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 0 1
     1 1 1 1 0 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
-    1 1 1 0 1 1 0 1 1 0
-    0 1 0 0 1 1 1 1 1 1
-    1 1 1 0 1 0 1 1 1 1
     1 0 1 1 1 1 1 1 1 1
-    1 1 0 1 0 1 1 0 1 1
-The largest isosceles triangle has a size of 4
->>> print(os.popen('echo 93 9| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
+    1 0 1 0 1 1 1 1 1 0
     1 1 1 1 1 1 1 1 1 1
-    1 1 0 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 0 1 1 1 1 1
-    1 0 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 0 1 1 0 1 1 0
-    0 1 1 0 0 1 1 1 1 1
-    1 1 1 1 0 1 0 1 1 1
-    1 1 0 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 4
->>> print(os.popen('echo 93 10| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 0 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 0 1
-    1 1 1 1 1 0 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 0
     1 1 0 1 1 0 0 1 1 1
-    0 0 1 1 1 1 1 1 1 1
-    1 1 0 1 0 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 93 11| python3 quiz_6.py').read(), end='')
+    1 1 1 1 1 0 1 1 1 1
+    1 1 1 1 1 1 0 1 1 1
+    1 1 1 1 1 1 0 0 1 1
+    1 0 1 1 1 1 0 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 357159 8| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
+    1 0 1 1 1 1 1 0 1 1
+    1 1 1 1 1 0 1 0 1 1
+    1 1 1 1 1 1 0 1 1 0
+    1 0 1 1 1 1 1 1 0 1
+    1 1 1 1 1 1 1 1 1 1
+    1 0 1 1 1 1 0 1 1 1
+    1 1 0 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 0 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 5
+>>> print(os.popen('echo 344460 1| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 0 0 0 0 1 1 1 0 1
+    1 0 1 1 0 1 1 1 1 1
+    0 0 0 1 1 1 0 1 1 0
+    0 1 0 0 0 0 1 1 1 1
+    1 1 0 0 0 0 1 0 1 1
+    0 0 0 0 0 1 1 1 0 0
+    0 0 1 1 1 0 1 1 0 0
+    1 0 1 1 0 1 0 1 0 0
+    0 0 0 1 0 1 0 0 1 1
+    1 1 0 1 1 0 0 1 1 1
+The largest isosceles triangle has a size of 2
+>>> print(os.popen('echo 327495 2| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 0 1 0 1 1 0 1 1
+    1 0 1 1 1 1 1 0 0 1
+    0 1 1 1 1 1 0 1 1 1
+    0 1 1 1 0 1 0 1 1 1
+    0 0 1 0 0 1 0 1 0 1
+    1 1 1 0 1 1 1 1 0 0
+    1 1 1 0 0 0 1 0 0 0
+    0 1 0 1 0 1 0 1 0 1
+    1 1 1 0 1 1 1 0 1 0
+    0 1 1 1 1 1 0 1 1 0
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 364046 3| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 0 1 1 0 1 1 1 1 1
+    1 0 1 0 1 1 0 1 1 1
+    0 1 1 0 0 1 1 1 1 1
+    1 0 0 1 1 1 1 1 1 1
+    1 1 1 1 0 1 1 1 1 1
+    1 1 1 1 1 0 1 1 1 1
+    0 1 1 0 1 1 0 1 1 1
+    1 1 1 1 1 1 1 1 0 1
+    1 1 0 0 0 1 1 1 1 1
+    1 0 1 1 1 1 1 0 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 404252 4| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 0 1 1
+    0 1 1 0 1 1 1 1 1 1
+    1 0 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 0 0 1 1
+    1 1 0 1 1 1 0 1 1 1
+    1 1 0 0 1 1 1 1 1 1
+    1 1 1 0 1 1 1 0 1 0
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 0 0 1 0 1 1 0
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 332130 5| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 0 1 0 1 1 1 1
+    1 1 1 1 1 0 0 1 1 1
+    0 1 0 0 1 0 1 1 1 0
+    0 1 1 1 1 1 1 1 1 1
+    1 1 0 1 1 1 1 1 1 1
+    0 1 1 1 1 1 0 0 0 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 0 1 1 1 0 1
+    1 1 0 1 1 1 1 1 0 1
+    0 1 1 0 1 1 1 0 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 354351 6| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 0 1 1 1 0 0 1
+    1 1 1 1 1 1 1 1 1 0
+    1 1 1 1 1 1 1 1 0 1
+    0 1 1 0 1 1 1 1 1 1
+    1 1 1 1 1 1 1 0 0 1
+    1 0 1 0 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 0 1
+    1 1 1 1 1 1 1 1 0 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 347549 7| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 0 1 1 1 0 1 1
     1 1 1 1 1 1 1 1 1 1
     1 1 1 0 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 0 1 1 1 1
+    1 1 1 1 1 0 1 1 1 1
+    1 1 0 0 1 1 1 1 1 0
     1 1 1 1 1 1 1 1 1 0
-    1 1 1 1 1 1 0 1 1 1
+    1 1 1 0 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 0 1 1 0 1
-    1 0 0 1 1 1 0 0 1 1
-    1 1 1 1 1 1 1 1 1 0
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 31 12| python3 quiz_6.py').read(), end='')
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 325236 8| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
-    0 1 1 1 1 1 1 0 1 1
-    1 1 1 1 1 1 1 0 1 0
-    1 1 1 1 1 1 1 1 1 1
     1 0 1 1 1 1 1 1 1 1
+    0 0 1 1 1 1 1 1 1 1
+    1 0 1 1 0 1 1 1 1 1
+    1 1 0 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 0 1 1 1 1 0 1 1 1
+    0 0 1 1 1 1 1 1 1 1
+    0 1 1 1 1 1 1 1 1 0
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 0 1 1 0
+The largest isosceles triangle has a size of 5
+>>> print(os.popen('echo 419075 1| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    0 0 0 1 0 0 0 0 0 0
+    1 0 0 0 1 1 1 1 0 1
+    0 1 0 1 0 1 1 1 1 0
+    0 1 1 1 0 1 0 0 1 0
+    0 0 0 0 1 1 1 1 1 0
+    0 1 0 1 0 0 0 1 0 0
+    1 0 0 1 0 1 1 1 1 1
+    1 0 0 1 0 0 0 1 0 0
+    1 1 0 1 0 0 1 1 0 0
+    0 1 1 1 1 0 1 0 1 0
+The largest isosceles triangle has a size of 2
+>>> print(os.popen('echo 405760 2| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 0 1 0 1 0 0 1 0 1
+    0 1 1 0 1 0 0 1 1 1
+    0 1 0 0 1 1 0 0 1 1
+    0 1 1 0 0 1 1 1 0 1
+    0 1 0 1 1 1 0 1 1 1
+    1 1 0 1 0 1 0 0 1 0
+    0 1 1 0 1 1 1 0 1 1
+    1 0 1 0 1 1 1 0 0 1
+    1 1 0 0 1 1 1 1 0 0
+    1 0 0 0 1 1 1 1 1 0
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 360798 3| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 0 1 1 1
+    0 1 1 0 1 0 1 1 0 1
+    1 1 1 0 1 1 1 1 1 1
+    1 1 0 0 0 0 1 1 1 1
+    0 0 1 0 0 1 1 1 0 1
+    1 1 1 0 1 0 1 1 1 1
+    1 0 1 1 1 1 1 0 1 0
+    1 1 1 0 0 0 1 1 0 1
+    1 1 1 1 0 1 1 0 1 1
+    1 1 0 1 1 1 1 0 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 388331 4| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 0 1 0 1 1 1
+    1 1 1 1 1 1 0 1 0 1
+    1 1 1 1 1 1 1 0 1 1
+    0 0 0 1 1 1 1 0 0 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 0 1 0 1 1 1
+    1 0 1 1 1 1 1 1 1 1
+    1 1 0 1 1 1 1 1 1 1
+    1 1 1 0 0 1 0 1 0 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 352703 5| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    0 1 0 1 1 1 1 0 1 1
+    1 0 1 0 1 1 1 1 0 1
+    1 1 1 1 0 1 1 1 1 1
+    0 1 1 1 1 0 1 0 1 1
+    1 1 1 0 1 1 1 1 1 1
+    1 1 0 1 1 1 1 1 0 0
+    0 1 1 1 1 1 1 0 1 1
+    0 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 0
     0 1 1 1 1 1 1 1 0 1
-    1 1 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 5
+>>> print(os.popen('echo 328423 6| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
     1 1 1 1 1 1 0 1 1 1
     1 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 31 13| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    0 1 1 1 1 1 1 0 1 1
-    1 1 1 1 1 1 1 0 1 0
-    1 1 1 1 1 1 1 1 1 1
-    1 0 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 0
-    0 1 1 1 1 1 1 1 1 1
-    0 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    0 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 31 14| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    0 1 1 1 1 1 1 0 1 1
-    1 1 1 1 1 1 1 0 1 0
-    1 1 1 1 1 1 1 1 1 1
-    1 0 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    0 0 1 1 1 1 1 1 1 1
-    1 0 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 0 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 31 15| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    0 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    0 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    0 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 0 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 31 16| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    0 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 0 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 0 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 0
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 31 17| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    0 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 0 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 0 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 0 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 98 18| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 0 0 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 0 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 0
-    1 1 0 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 98 19| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 0 0 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 0 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 0 1 1 0 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 98 20| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 0 0 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 0
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 0 1 1 0 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 98 21| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 0 0 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 0 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
+    0 1 1 0 1 1 1 1 0 1
     1 1 1 1 1 1 1 1 0 1
-    1 0 1 1 1 1 1 1 1 1
+    0 1 1 1 1 1 1 1 0 1
+    1 1 1 1 0 1 1 1 1 1
+    1 1 1 0 1 1 1 1 1 0
+    1 1 1 1 1 1 1 1 1 1
+    1 1 0 1 1 1 1 1 1 1
 The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 98 22| python3 quiz_6.py').read(), end='')
+>>> print(os.popen('echo 359848 7| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 0 0
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 0 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 0 1 1 1 0
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 98 23| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 0 1 1 1 1
+    1 0 1 1 0 1 1 1 1 1
+    1 0 1 1 1 0 1 1 1 1
+    1 1 1 1 1 1 1 0 0 1
+    1 1 1 0 0 1 1 1 1 1
+    1 0 0 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 0
-    0 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 0 0 1 1
+    0 0 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 0
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 0
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 47 24| python3 quiz_6.py').read(), end='')
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 375250 8| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
     1 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 0 1 0 1 1
+    1 0 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 0 1 1 1 1
+    1 0 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 0 1
+    1 1 1 1 1 1 1 1 1 0
+    1 1 1 1 1 1 1 1 1 0
+    1 1 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 5
+>>> print(os.popen('echo 325193 1| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 0 0 0 1 1
+    1 0 1 0 1 0 1 0 0 1
+    0 1 0 0 1 1 1 1 0 0
+    1 0 0 0 1 1 1 1 1 1
+    1 1 0 0 1 0 1 1 0 0
+    0 1 1 1 1 0 1 0 0 0
+    1 0 0 0 0 1 0 1 1 0
+    0 0 1 0 0 1 0 0 1 1
+    1 0 1 0 0 1 0 1 1 1
+    0 0 0 1 0 1 0 0 1 0
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 403329 2| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    0 1 0 1 1 0 0 1 0 1
+    1 1 1 1 1 1 0 1 1 1
+    1 1 1 1 1 0 1 1 0 1
+    0 1 1 1 0 0 0 0 1 1
+    0 0 1 0 1 1 1 0 1 0
+    0 1 0 1 1 1 1 0 1 1
+    1 1 1 0 0 0 1 0 1 0
+    0 0 1 1 0 0 1 0 1 0
+    1 0 1 0 1 0 1 0 1 0
+    1 1 1 0 0 1 0 1 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 376605 3| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 0 0 1 0 1 1
+    1 1 0 0 1 1 1 1 0 1
+    0 1 1 1 0 0 1 0 1 0
+    0 1 1 1 1 1 0 0 1 1
+    0 1 1 1 1 0 1 1 1 1
+    0 1 1 1 1 1 0 1 0 1
+    1 1 1 0 1 1 1 1 1 1
+    1 1 1 1 0 0 1 1 1 1
+    0 1 1 1 1 1 1 0 0 1
+    1 0 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 367813 4| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 0 0 0 1 0 1 1
+    1 1 0 0 1 1 0 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 0 1 0 1 1 1 1 1 1
+    0 0 1 1 1 0 1 1 1 0
+    1 1 0 1 1 1 1 1 0 0
+    1 1 1 1 1 1 0 1 1 1
+    1 1 1 1 1 1 0 1 1 1
+    1 1 1 1 0 1 1 1 0 1
+    1 1 1 0 1 0 1 1 1 0
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 391931 5| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 0 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 0 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    0 1 1 1 1 1 1 0 1 1
+    1 1 1 1 1 1 1 1 1 1
+    0 1 1 1 1 1 1 1 1 0
+    1 1 1 0 1 1 1 0 1 1
+    1 1 0 1 1 0 1 1 1 1
+    0 1 1 1 1 1 1 1 1 0
+The largest isosceles triangle has a size of 5
+>>> print(os.popen('echo 338082 6| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 0 0 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    0 1 0 1 0 1 1 1 1 1
+    1 1 1 0 1 1 1 0 1 1
+    1 0 1 0 1 1 1 1 1 1
+    1 1 1 1 1 1 1 0 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 0 1 1 1 1 1
+    0 1 1 1 0 1 0 1 1 0
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 332942 7| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 0 1
+    1 1 1 1 1 1 0 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 0 1
+    1 1 1 1 0 1 1 1 1 1
+    1 0 1 1 1 0 1 1 0 1
+    1 1 1 1 0 1 1 1 1 1
+    0 1 1 1 1 1 1 1 0 0
+    1 1 1 1 1 1 0 1 1 0
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 332827 8| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 0 1 1 1 1 1 1
+    1 0 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
     1 1 0 1 1 1 1 1 1 1
+    1 1 1 1 1 0 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 47 25| python3 quiz_6.py').read(), end='')
+    1 1 1 1 1 0 1 1 0 1
+    1 0 1 1 1 1 0 1 1 1
+    1 0 1 1 1 0 1 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 356954 1| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
+    1 0 1 1 1 1 1 0 1 0
+    0 0 1 0 0 1 0 0 1 1
+    1 1 0 1 1 1 1 0 1 0
+    1 0 0 1 0 0 0 1 0 1
+    1 0 1 0 0 1 1 1 1 0
+    1 1 0 0 1 0 1 0 1 0
+    0 1 0 1 1 1 0 0 0 1
+    0 0 0 1 1 0 1 0 0 1
+    1 0 0 1 0 1 1 1 1 1
+    1 1 0 0 0 0 1 1 1 0
+The largest isosceles triangle has a size of 2
+>>> print(os.popen('echo 397192 2| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    0 1 1 1 1 1 1 1 0 1
+    1 0 0 1 1 1 0 0 1 0
+    1 1 0 0 1 0 1 1 1 1
+    1 1 0 1 0 1 0 1 1 0
+    1 1 0 1 0 1 0 1 1 0
+    1 0 0 1 1 0 0 1 1 1
+    1 1 1 1 1 1 1 1 0 1
+    0 1 1 0 0 0 1 0 1 1
+    1 1 1 1 1 0 0 0 1 1
+    1 0 0 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 419240 3| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 0 1 0 1 1 1 1 1 1
+    1 1 0 1 1 0 1 1 1 0
     1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 0 1 1 1 0 1
+    1 1 0 1 1 1 0 1 1 1
+    1 0 1 0 0 1 0 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 0 1 1
+    1 1 1 1 0 1 1 0 1 0
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 347368 4| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    0 1 1 1 1 0 1 0 1 1
+    0 1 0 1 1 1 0 0 1 1
+    1 1 1 0 0 0 1 1 1 1
+    1 1 0 1 1 0 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 0 1 0 1 0 1 1
+    1 1 1 1 1 1 1 1 0 1
     1 1 1 1 1 1 0 1 0 1
-    1 1 1 1 0 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 47 26| python3 quiz_6.py').read(), end='')
+    1 1 1 1 0 1 0 1 1 1
+    1 1 1 1 1 1 1 1 0 0
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 380594 5| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
+    1 1 0 0 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 0 1 0 1
-    1 1 1 1 0 1 1 1 1 1
+    1 1 0 1 0 0 1 1 0 1
+    1 1 1 0 1 1 1 0 1 1
+    1 1 1 0 1 1 1 1 1 0
     1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 47 27| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 0 1 0 1
-    1 1 1 1 0 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 47 28| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 0 1 0 1
-    1 1 1 1 0 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 47 29| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 0 1 0 1
-    1 1 1 1 0 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 28 30| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 0 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
+    1 1 1 0 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 0
     1 1 1 1 1 1 1 1 1 1
     1 1 0 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 371077 6| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 0 1 1 0 1
+    1 1 1 0 1 1 1 0 1 1
+    1 1 1 1 0 1 1 1 1 1
+    0 1 1 1 1 1 1 1 1 1
+    1 1 1 1 0 1 1 1 0 1
+    0 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 0 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 0 1 0 1 0 1 1 1 0
+    0 1 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 362937 7| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 1 1
+    1 0 1 1 1 1 1 1 1 1
+    1 1 0 1 1 1 1 1 1 1
+    1 1 1 1 1 0 1 1 1 1
+    0 1 1 1 0 1 1 1 1 1
+    1 1 1 1 1 1 1 1 0 1
     1 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 0
 The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 28 31| python3 quiz_6.py').read(), end='')
+>>> print(os.popen('echo 393297 8| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
     1 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 0
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 0 1 1
+    1 0 1 1 1 1 1 1 1 1
+    1 0 1 1 1 1 0 1 1 1
+    1 1 0 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 0 1
     1 1 1 0 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
 The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 28 32| python3 quiz_6.py').read(), end='')
+>>> print(os.popen('echo 403999 1| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    0 0 1 1 0 1 1 0 1 1
+    1 0 1 0 0 1 1 0 0 0
+    1 0 1 0 0 0 0 1 1 1
+    1 1 0 1 1 0 1 0 1 0
+    1 1 0 1 0 1 1 1 1 0
+    1 1 1 1 0 0 1 0 0 1
+    1 1 0 1 1 1 0 1 0 1
+    0 0 0 0 1 0 1 1 0 1
+    0 0 0 1 1 1 0 0 1 0
+    1 1 0 0 1 0 1 0 0 0
+The largest isosceles triangle has a size of 2
+>>> print(os.popen('echo 384871 2| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
     1 1 1 1 1 1 1 1 1 1
+    1 0 1 1 1 0 1 0 1 0
+    1 0 1 1 0 1 1 1 1 1
+    1 0 1 1 0 1 1 0 1 1
+    1 1 1 0 1 1 1 1 1 1
+    1 1 0 0 1 0 0 1 0 1
+    0 1 0 1 1 0 1 1 0 0
+    0 1 1 1 1 1 1 0 0 1
+    1 1 1 0 0 1 0 0 0 0
+    0 1 0 1 0 0 1 0 1 0
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 379165 3| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    0 1 0 1 1 1 1 1 0 1
+    1 1 1 1 1 1 1 1 1 0
+    1 0 1 1 0 1 0 0 0 1
+    1 1 1 1 1 0 1 1 1 1
+    1 1 1 1 0 1 1 1 0 1
+    1 1 0 1 0 1 1 1 1 1
+    1 1 1 1 0 1 0 1 1 0
+    0 1 1 1 0 1 1 0 0 1
+    1 0 1 1 0 1 1 1 1 0
+    1 1 1 0 0 1 1 1 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 395380 4| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    0 1 1 1 1 1 1 1 1 1
+    1 0 0 0 1 1 1 0 1 1
+    1 1 1 0 0 1 1 1 1 1
+    0 0 1 1 1 0 1 0 1 1
+    1 1 1 1 1 1 1 0 0 1
+    1 1 1 1 1 1 0 1 1 1
+    1 1 1 0 1 1 0 1 1 1
+    1 1 0 0 1 1 1 0 1 0
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 0 1 1 1 1 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 321559 5| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 0 1 1 0 0 0
+    1 1 1 1 1 0 1 1 1 1
+    1 1 1 1 1 0 1 1 1 0
+    1 1 1 1 1 0 1 1 1 1
+    1 1 1 1 0 1 1 1 1 1
+    1 0 1 1 0 1 1 1 0 1
     1 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
+    0 1 0 1 1 1 1 0 1 1
+    1 1 1 1 0 1 1 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 354256 6| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 0 1 1 1 1 1 1 1 1
+    0 1 1 1 1 0 0 1 1 0
+    1 0 1 1 0 1 1 0 1 1
+    1 1 1 1 1 1 1 0 1 1
+    1 1 1 1 1 1 0 1 0 1
+    0 1 1 0 1 1 1 1 1 1
+    1 1 1 0 1 1 1 1 1 1
+    1 1 1 1 1 0 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 0
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 407584 7| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 0 0 0
+    0 0 1 1 1 1 1 1 1 1
+    1 0 1 1 1 1 1 1 1 1
+    1 1 0 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 0
+    1 1 1 1 1 1 1 0 1 1
+    1 1 0 1 1 1 0 1 1 1
+    1 1 1 1 1 1 0 1 1 1
+    1 1 0 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 5
+>>> print(os.popen('echo 392038 8| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 0 1 1 1 1 1 0
+    1 1 1 1 1 0 1 1 1 1
+    1 1 0 1 1 1 1 1 1 1
     0 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 0 1 1 1 1
+    0 1 1 1 1 1 1 0 1 1
     1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 0
-    1 1 1 1 1 1 0 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 28 33| python3 quiz_6.py').read(), end='')
+    1 1 1 1 1 1 1 0 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 355917 1| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 0 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 0 1 1 1 1 1 1 1
+    0 1 1 0 1 0 1 0 1 0
+    1 0 0 1 0 0 1 0 0 0
+    0 1 0 0 0 0 0 1 1 1
+    1 0 1 1 0 0 0 0 0 0
+    1 0 1 1 0 1 0 0 1 1
+    0 1 0 1 0 1 1 0 1 1
+    1 1 1 0 1 0 1 1 0 0
+    1 1 1 1 1 0 1 0 1 1
+    0 0 0 0 0 1 1 0 1 1
+    1 0 1 0 1 1 0 1 1 0
+The largest isosceles triangle has a size of 2
+>>> print(os.popen('echo 332341 2| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
     0 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 28 34| python3 quiz_6.py').read(), end='')
+    0 1 1 0 1 1 1 1 0 0
+    1 0 1 0 1 1 0 1 1 0
+    0 0 0 1 1 1 1 1 0 0
+    1 0 1 0 1 0 0 1 0 1
+    1 1 1 1 0 1 0 1 1 0
+    1 0 0 0 1 1 0 1 1 1
+    1 1 1 0 0 0 0 1 0 1
+    1 1 1 0 1 1 1 1 0 1
+    0 0 1 1 1 1 0 1 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 359215 3| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 0 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 0 1 1 1
-    1 1 1 1 0 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 28 35| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 0 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 0 1 1 1
+    0 1 1 1 1 1 1 1 0 1
+    0 1 1 1 1 1 1 1 0 1
+    0 1 0 1 1 1 1 1 0 0
     1 1 1 1 1 0 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 68 36| python3 quiz_6.py').read(), end='')
+    1 0 1 1 1 1 0 1 1 0
+    1 1 1 1 0 0 1 1 1 1
+    1 1 1 0 1 1 1 0 0 1
+    1 1 1 1 1 1 0 1 1 1
+    1 0 1 0 1 1 1 1 1 1
+    1 1 1 1 0 1 1 0 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 327430 4| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
     1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 0 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 0
+    1 1 0 1 1 1 1 1 1 1
+    1 1 1 1 1 0 0 1 1 1
+    1 1 0 1 1 0 0 1 0 1
+    1 1 1 0 1 0 1 0 1 0
+    0 1 0 0 1 1 1 1 1 1
+    0 1 0 1 1 0 1 1 1 0
     1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 0 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 68 37| python3 quiz_6.py').read(), end='')
+    1 1 0 1 1 1 0 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 342109 5| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 0 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
+    1 1 0 1 1 1 1 1 1 1
     1 1 0 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 0 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 0 1 1 0
+    1 1 1 1 1 1 0 0 0 1
+    1 1 1 1 1 0 0 1 0 1
+    1 1 1 0 1 0 1 1 1 1
+    1 1 1 1 1 0 0 0 0 1
+    1 1 1 1 0 1 1 1 1 1
+    1 0 1 1 1 1 1 1 1 0
 The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 68 38| python3 quiz_6.py').read(), end='')
+>>> print(os.popen('echo 335509 6| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
+    1 0 1 1 1 1 1 0 1 1
+    1 1 1 0 1 1 0 1 1 1
+    1 1 1 1 1 1 1 1 0 1
+    1 1 1 1 1 1 1 1 1 0
+    1 1 0 1 1 0 1 0 1 1
+    1 1 1 0 1 1 1 1 0 0
+    1 1 1 0 0 1 1 1 1 1
+    1 1 1 1 0 1 1 1 1 1
+    1 1 1 1 0 0 0 1 1 1
     1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 397909 7| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    0 1 0 1 1 1 1 1 1 1
+    0 1 0 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 0
+    1 1 1 1 0 1 1 1 1 1
     1 1 1 1 1 1 1 0 1 1
     1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
     1 1 1 1 0 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
     1 0 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 68 39| python3 quiz_6.py').read(), end='')
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 398777 8| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 0 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 0 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 0 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 68 40| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 0 1 1
-    1 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 0 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
+    0 1 1 0 1 1 1 1 0 0
+    1 1 0 1 0 1 0 1 0 1
+    0 1 0 1 1 1 1 1 1 1
+    0 1 1 1 1 1 1 1 1 1
+    1 1 0 1 1 1 1 0 1 0
+    1 1 0 1 0 0 1 1 1 1
+    1 0 1 1 1 1 1 0 1 1
     1 1 1 0 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 68 41| python3 quiz_6.py').read(), end='')
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 407316 1| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 0 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 0 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 0 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 81 42| python3 quiz_6.py').read(), end='')
+    0 1 1 1 1 0 0 0 1 1
+    0 0 0 0 1 0 0 1 1 0
+    0 0 1 0 0 0 1 1 1 0
+    1 1 1 1 0 1 0 1 0 1
+    1 1 0 0 0 1 0 1 0 1
+    0 0 0 0 0 0 1 0 1 0
+    1 0 0 1 1 0 1 1 0 1
+    0 1 1 0 0 1 0 1 0 0
+    0 1 0 1 1 0 1 1 1 0
+    0 1 0 1 1 0 0 0 0 1
+The largest isosceles triangle has a size of 2
+>>> print(os.popen('echo 386879 2| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 0 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 0 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 81 43| python3 quiz_6.py').read(), end='')
+    1 0 0 0 0 1 0 1 1 1
+    0 1 1 1 1 0 1 1 1 1
+    1 1 0 1 1 1 1 0 0 0
+    0 1 1 0 0 0 1 0 0 1
+    1 1 0 1 0 0 0 1 1 1
+    1 1 1 1 1 1 0 1 0 1
+    1 1 1 1 1 1 1 1 0 0
+    0 1 1 0 1 0 1 0 1 0
+    1 0 1 0 1 1 1 1 1 1
+    0 0 0 1 1 1 1 0 0 0
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 327074 3| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 0 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 0 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 81 44| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 0 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 0 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 81 45| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 0 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
+    1 1 0 1 1 1 1 1 1 0
+    1 1 1 1 0 1 0 1 1 1
+    1 1 1 1 0 1 0 1 1 1
+    1 1 1 1 0 1 1 0 0 1
+    1 1 0 1 1 0 1 1 1 1
+    1 0 1 0 0 1 1 0 0 1
     1 1 1 1 1 1 1 1 1 1
     0 1 1 1 1 1 1 1 1 1
+    1 0 1 1 1 1 1 1 0 1
     1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 81 46| python3 quiz_6.py').read(), end='')
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 381267 4| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
     1 1 1 1 1 1 1 1 1 1
+    0 0 1 1 1 1 0 1 1 0
+    1 1 1 1 1 1 1 1 1 0
+    0 0 1 1 1 1 1 0 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 0 1
     1 1 1 0 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 0 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 81 47| python3 quiz_6.py').read(), end='')
+    0 1 1 1 1 1 1 0 1 1
+    1 1 1 1 1 1 1 0 1 0
+    1 0 0 0 1 0 1 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 357317 5| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 0 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 0 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 54 48| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 0
+    1 0 1 0 1 0 0 1 1 1
+    1 0 1 1 1 0 1 1 1 1
+    1 1 1 1 1 1 1 0 0 1
+    1 1 1 1 1 1 1 0 1 1
     1 1 0 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 54 49| python3 quiz_6.py').read(), end='')
+    0 1 1 1 1 1 0 1 1 0
+    1 1 1 1 0 0 1 1 1 1
+    1 0 1 1 1 1 1 1 1 1
+    0 1 0 0 0 1 1 1 0 1
+    1 0 1 1 1 0 1 1 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 397767 6| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 0
-    1 1 0 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 54 50| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 0
-    1 1 0 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 54 51| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
+    1 1 1 0 1 0 1 1 1 1
     0 1 1 0 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
+    1 1 0 1 0 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 0
+    1 1 1 1 1 1 1 1 1 0
+    1 0 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
 The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 54 52| python3 quiz_6.py').read(), end='')
+>>> print(os.popen('echo 376095 7| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 1 1
+    1 1 0 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 0 1 0 1 1 1 1 1
+    1 1 1 1 1 1 1 0 1 1
+    1 1 1 1 1 1 1 1 0 1
+    0 1 1 1 1 1 1 1 1 1
+    0 1 1 1 1 0 1 0 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 387166 8| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
     1 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 0 0 1 0
+    1 1 1 1 0 1 1 1 1 0
+    0 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 0
+    0 1 1 1 1 1 1 1 1 1
+    1 1 1 0 1 1 1 1 0 1
+    1 0 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 5
+>>> print(os.popen('echo 367735 1| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    0 0 0 0 1 0 0 1 1 1
+    1 0 0 0 1 1 0 1 1 0
+    0 0 0 1 0 1 1 0 0 1
+    1 1 1 0 0 1 0 1 1 0
+    1 1 0 1 0 1 0 0 1 0
+    1 1 0 1 0 0 0 0 0 0
+    0 1 0 1 1 0 0 0 1 0
+    1 0 1 1 1 0 0 0 1 1
+    0 0 1 1 1 1 1 1 0 0
+    0 0 1 0 0 0 1 1 1 1
+The largest isosceles triangle has a size of 2
+>>> print(os.popen('echo 390089 2| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    0 1 1 1 0 1 0 1 0 1
+    0 1 1 0 0 1 0 1 1 1
+    1 1 1 1 0 0 0 1 1 1
+    1 0 0 0 1 0 1 1 1 0
+    0 0 1 1 1 1 1 0 1 0
+    1 1 0 1 1 0 1 1 0 1
+    1 0 0 1 1 0 1 0 1 0
+    0 1 1 0 1 1 0 1 1 1
+    1 1 1 1 0 1 0 1 1 1
+    1 1 0 1 0 1 1 1 0 1
+The largest isosceles triangle has a size of 2
+>>> print(os.popen('echo 386418 3| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 0 1 1 1 1
+    1 1 1 1 0 1 1 0 0 1
+    1 0 1 1 1 1 0 0 1 1
+    1 0 1 1 1 1 0 1 1 0
+    1 1 1 1 1 1 0 1 1 1
+    1 1 1 0 1 1 1 1 0 1
+    1 1 0 1 1 1 1 1 1 1
+    1 1 0 1 1 1 1 1 1 0
+    0 0 1 1 1 1 1 0 1 1
+    1 1 1 1 1 0 0 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 383560 4| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 0 1 1 1 1 1 0 0 1
+    1 1 1 0 1 1 0 0 0 1
+    0 1 1 1 0 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 0 0
+    1 1 1 1 1 1 0 1 1 1
+    1 1 1 1 1 1 1 1 1 0
+    1 1 1 1 1 1 1 1 1 1
+    1 1 0 1 1 1 1 0 1 0
+    0 1 1 1 1 0 0 0 1 0
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 349926 5| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 1 1
+    0 1 1 1 1 1 0 1 1 0
+    0 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 0 1 1 1 1 1 1 1 1
+    1 1 0 1 1 1 1 1 1 1
+    0 1 1 1 1 1 1 0 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 0 1 1 1
+    0 0 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 5
+>>> print(os.popen('echo 345456 6| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 0 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 0 0
+    1 1 1 0 1 0 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 0 1 1 1 1 0 1 1
+    1 1 1 1 1 1 0 0 0 0
+    1 1 1 0 1 1 1 1 1 1
+    1 0 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 0 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 371340 7| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 0 1 1 1 1 1 1 1 1
+    0 1 1 1 1 0 1 1 1 1
+    1 0 1 1 1 1 0 1 1 1
+    1 1 1 1 1 1 1 0 1 1
+    1 1 1 1 1 0 1 1 1 1
+    1 1 1 1 1 1 1 0 1 1
+    1 0 1 0 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 5
+>>> print(os.popen('echo 414555 8| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 0 0 0 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 0 1 1 1 1 0 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 0 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 0 1 1 1 1 1 0 0 0
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 5
+>>> print(os.popen('echo 363292 1| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    0 0 1 0 0 0 1 0 1 0
+    1 0 0 0 1 1 1 0 1 0
+    0 1 1 1 0 0 1 1 1 0
+    0 1 1 0 1 0 0 0 1 0
+    1 1 1 0 1 0 1 1 1 1
+    0 1 0 1 1 1 0 0 1 0
+    1 1 1 1 1 0 0 0 0 0
+    0 1 1 0 1 1 1 0 1 1
+    0 1 1 0 1 0 1 1 0 0
+    0 1 0 1 1 1 1 0 1 1
+The largest isosceles triangle has a size of 2
+>>> print(os.popen('echo 398102 2| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 0 1 0 1 1 1 1 0
+    1 0 1 1 0 1 1 1 0 1
+    1 1 1 1 0 1 1 0 1 1
+    0 1 1 1 0 1 1 1 1 1
+    0 0 1 1 1 1 1 1 0 1
+    1 1 1 0 1 1 1 1 1 1
+    1 1 0 1 1 0 0 1 1 0
+    1 1 1 1 1 1 0 1 0 0
+    1 1 0 0 1 1 1 0 1 1
+    0 0 1 1 1 1 0 1 1 0
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 413389 3| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 0 1 1 0 1 0 1
+    1 1 1 1 0 1 0 1 0 1
+    1 1 1 1 1 1 1 1 0 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 0 1 1 1 0 1 1 1
+    1 1 1 1 1 0 1 1 1 1
+    1 1 0 1 0 1 1 1 0 1
+    0 0 1 1 0 1 1 1 1 1
+    0 0 1 1 1 1 0 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 358174 4| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 0 1 1 1 1
+    1 1 0 1 1 0 1 1 1 1
+    1 1 1 1 1 0 1 1 0 1
+    1 1 1 0 1 1 1 1 0 1
+    0 0 1 1 0 0 1 1 1 0
+    1 1 0 1 1 1 0 1 1 0
+    1 1 0 0 1 1 1 1 1 1
+    1 1 1 0 1 1 1 1 1 1
+    0 1 1 0 0 1 1 1 1 0
+    1 1 0 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 332082 5| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    0 1 1 1 1 0 1 0 1 1
+    1 0 1 1 1 0 1 0 1 1
+    1 1 0 1 1 1 0 1 1 1
+    1 1 1 1 0 1 1 0 0 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 0 0 1
+    1 0 0 1 1 1 1 1 1 1
+    1 0 1 1 1 0 1 1 1 1
+    1 1 1 0 1 1 1 0 1 1
+    1 1 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 395254 6| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 0 1 1
+    1 1 1 1 1 1 1 0 1 0
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 0 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 0 1 0 1 1 1 1
     0 1 1 0 1 1 1 1 1 1
+    0 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 54 53| python3 quiz_6.py').read(), end='')
+    0 0 1 1 1 1 1 1 1 0
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 353055 7| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    0 1 1 0 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 96 54| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 0 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 96 55| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 0 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 96 56| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
+    1 1 1 0 1 1 1 1 1 1
+    1 1 1 1 1 0 1 1 1 1
+    1 1 1 0 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 0 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 96 57| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 0 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 96 58| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 0 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 96 59| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
+    1 0 1 1 1 1 0 1 1 1
     1 1 1 1 1 1 1 0 1 1
     1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 7 60| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 7 61| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 7 62| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 7 63| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 7 64| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 7 65| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 31 66| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 31 67| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 31 68| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 31 69| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 31 70| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 31 71| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 22 72| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
     1 1 1 1 0 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 22 73| python3 quiz_6.py').read(), end='')
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 336897 8| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
+    1 1 0 1 1 1 1 0 1 1
     1 1 1 1 1 1 0 1 1 1
+    1 1 1 1 1 0 1 1 0 1
     1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 0 1 0 1
+    1 1 1 1 1 1 1 1 1 0
     1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 0 1 1 0 1 1
+    0 1 1 1 0 1 1 1 1 0
+    1 0 1 1 1 1 1 1 1 1
 The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 22 74| python3 quiz_6.py').read(), end='')
+>>> print(os.popen('echo 361530 1| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
+    1 1 0 0 0 0 1 0 1 1
+    1 1 1 0 0 0 1 1 0 0
+    0 1 0 1 0 0 0 1 1 0
+    0 1 0 1 1 1 0 1 0 0
+    1 0 0 0 0 1 1 0 0 0
+    1 0 0 1 1 1 0 0 1 1
+    1 1 1 1 1 0 0 1 0 1
+    1 1 0 1 1 1 0 0 0 0
+    1 1 0 1 1 0 0 0 0 1
+    1 0 0 0 1 1 1 0 0 0
+The largest isosceles triangle has a size of 2
+>>> print(os.popen('echo 402144 2| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 0 1 1 0 1 1 1
+    1 1 1 0 0 0 1 1 1 0
+    0 0 0 0 1 1 1 0 0 1
+    1 1 0 1 0 1 1 1 0 1
+    0 1 0 1 1 1 1 0 0 1
+    1 0 1 1 1 0 1 0 1 1
     1 1 1 1 1 1 1 1 1 1
+    0 1 1 1 0 1 0 0 0 1
+    0 1 1 1 0 0 1 1 1 0
+    0 1 0 1 0 1 0 1 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 396859 3| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 0 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
+    1 1 0 1 0 1 1 1 0 1
+    0 0 1 0 1 1 1 1 1 1
+    1 1 0 1 1 1 1 1 0 1
+    1 1 1 1 1 0 1 1 1 1
+    1 1 1 1 1 0 1 1 1 1
+    1 0 1 1 0 1 0 1 1 1
+    1 1 0 0 1 1 1 0 0 1
+    1 1 1 1 1 0 1 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 325099 4| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 0 0 1 1
+    1 1 1 1 1 0 0 1 1 1
+    1 1 1 1 0 1 1 1 1 1
+    1 1 0 1 0 1 1 1 1 1
+    0 1 1 1 1 1 1 1 0 1
+    1 1 1 1 1 0 1 0 1 1
+    1 1 1 1 1 1 0 1 0 1
+    1 1 0 1 1 1 1 1 1 1
+    1 0 1 1 0 1 1 1 1 1
+    0 1 0 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 407332 5| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 0 1 1 0 1 1 1
+    1 1 1 1 1 1 0 1 1 1
+    0 1 1 1 1 0 1 1 0 1
+    1 1 1 1 1 1 1 0 1 1
+    0 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 0 1 1
+    1 0 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
+    0 1 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 5
+>>> print(os.popen('echo 331836 6| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    0 1 1 1 0 0 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
+    1 0 1 1 1 1 1 0 1 1
     1 1 1 1 1 1 1 1 1 1
+    0 1 1 1 1 1 1 0 0 1
+    1 1 1 1 1 0 1 1 1 1
+    1 1 1 1 0 1 1 0 1 0
+    1 0 1 1 1 1 1 1 0 1
+    1 1 1 1 1 1 1 1 0 0
     1 1 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 358538 7| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 0 1 1 1 1 1
+    0 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 0 1 1
+    0 1 1 1 1 1 0 1 1 1
+    0 1 1 1 0 1 1 1 1 1
     1 1 1 1 1 1 1 1 0 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 22 75| python3 quiz_6.py').read(), end='')
+    1 1 1 1 1 1 0 1 1 1
+    0 1 1 1 1 1 1 1 1 1
+    1 1 1 0 1 1 1 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 352550 8| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 0
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 22 76| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 0 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 22 77| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 0 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 33 78| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 0 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 0
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 33 79| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 0 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 0
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 33 80| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 0 0 1 1
+    1 1 1 0 1 0 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
     1 1 0 1 1 1 1 1 1 1
+    1 1 1 1 1 1 0 1 1 1
+    1 1 1 1 1 1 0 0 1 1
+    1 1 1 0 0 1 1 0 1 1
+    1 0 1 1 0 1 1 1 1 1
+    1 1 1 0 1 0 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 397398 1| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    0 0 1 1 1 0 1 1 0 1
+    0 0 1 1 0 1 0 1 0 0
+    0 0 0 1 1 1 1 1 1 0
+    1 1 1 1 0 0 1 1 0 0
+    1 1 1 1 0 0 1 1 0 1
+    1 0 1 1 0 1 0 1 0 0
+    0 0 0 0 1 0 0 1 0 1
+    0 1 1 1 0 0 1 0 1 1
+    1 1 0 0 1 1 0 0 0 1
+    0 1 1 0 1 1 0 1 1 1
+The largest isosceles triangle has a size of 2
+>>> print(os.popen('echo 419033 2| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 0 0 1 0 0 1 1 1
+    1 0 0 1 1 1 0 1 1 1
+    0 1 1 1 1 1 1 0 0 1
+    0 0 0 1 1 1 0 1 1 0
+    1 1 0 1 0 1 0 0 0 0
+    1 1 1 1 1 1 1 1 0 0
+    0 1 0 1 1 1 1 0 1 0
+    1 0 1 1 0 1 0 1 0 1
+    1 0 1 1 1 0 0 1 1 1
+    1 0 0 0 1 1 0 1 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 390471 3| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 0 1 0 1 1 1 1 1 1
+    0 1 1 1 1 1 1 1 1 1
+    1 1 0 0 1 1 1 0 1 1
+    0 1 0 1 1 0 1 1 0 0
+    0 1 1 0 1 1 1 0 0 0
+    1 1 1 1 1 1 1 0 1 1
+    0 1 1 0 1 1 1 1 1 0
+    1 0 1 1 1 0 1 1 1 0
+    0 1 1 1 1 0 1 1 1 0
+    1 0 1 1 1 1 0 1 0 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 392099 4| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 1 0
+    1 1 1 0 0 1 0 1 1 1
+    1 0 0 1 1 0 1 1 1 1
+    1 1 1 1 1 0 1 0 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 0 1 0 1 0 0 1 0
+    1 1 1 0 1 1 1 0 1 0
+    1 1 1 1 1 1 1 0 1 1
+    1 1 1 1 1 1 0 1 1 1
+    1 1 1 1 1 1 1 1 0 0
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 367900 5| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 0 1 1
+    0 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 0
+    1 1 1 1 1 1 1 0 1 1
+    1 0 1 1 1 1 1 1 1 1
+    1 1 1 0 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 0
     1 0 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
 The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 33 81| python3 quiz_6.py').read(), end='')
+>>> print(os.popen('echo 404255 6| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 0 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 0 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 33 82| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 0 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 0 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 33 83| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
+    0 0 1 1 1 1 1 0 1 1
+    1 1 1 1 1 1 0 0 1 1
+    1 1 0 1 1 1 1 0 1 1
     1 1 1 1 1 1 0 1 1 1
+    1 1 0 1 1 1 1 1 1 1
+    1 0 1 0 1 1 1 0 0 0
+    1 1 1 1 0 1 1 1 1 0
+    1 1 1 1 0 1 1 1 0 0
     1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 0 1 0
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 412397 7| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 0 1 0 1 1 1 1 0
+    1 1 1 1 1 1 1 1 1 0
+    1 1 1 1 1 0 1 1 0 1
+    1 1 1 1 1 1 1 0 1 1
     1 1 1 1 1 0 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 0 1
+    1 1 1 1 0 1 1 0 1 1
     1 1 1 1 1 1 1 1 1 1
 The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 24 84| python3 quiz_6.py').read(), end='')
+>>> print(os.popen('echo 376528 8| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 24 85| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 24 86| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 24 87| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 24 88| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 24 89| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 27 90| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 27 91| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 27 92| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 27 93| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 27 94| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 27 95| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 35 96| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 0 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 35 97| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 0 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 35 98| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
     1 1 1 1 0 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 35 99| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 0 1 1 1 0 1
+    1 0 1 1 1 1 0 1 1 1
+    0 1 1 1 1 1 1 1 1 1
+    0 1 1 1 1 0 1 1 1 1
+    1 1 0 1 1 1 1 1 1 0
     1 1 1 1 1 0 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 35 100| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 0 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 35 101| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 0 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 67 102| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
     1 0 1 1 1 1 1 1 1 1
+    1 0 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 361981 1| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 0 0
+    0 0 0 0 1 1 1 1 0 0
+    1 0 0 1 0 1 1 1 1 1
+    1 0 1 1 1 0 1 0 0 0
+    0 0 0 1 1 1 1 0 0 0
+    1 0 0 0 0 0 0 0 1 1
+    0 1 1 0 0 1 0 0 1 0
+    1 0 1 1 1 0 0 0 1 0
+    0 0 1 0 1 0 0 1 1 1
+    1 0 0 0 0 1 1 1 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 408066 2| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    0 1 0 1 1 1 1 1 0 1
+    1 1 1 0 1 1 1 0 0 1
+    0 1 0 1 1 0 0 1 1 0
+    0 1 0 0 1 1 0 0 1 1
+    0 1 0 1 0 0 1 0 1 1
+    1 0 0 0 1 1 1 0 0 1
+    1 0 1 1 0 1 0 0 1 1
+    1 1 1 0 1 0 1 1 1 1
+    1 1 0 1 1 0 0 1 1 0
+    0 1 1 0 0 1 1 0 1 0
+The largest isosceles triangle has a size of 2
+>>> print(os.popen('echo 413328 3| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 0 1 1 1 1 1 1 1 1
+    1 1 1 0 0 1 1 0 0 1
+    0 1 1 1 1 0 1 0 1 0
+    1 0 1 1 1 1 1 1 1 1
+    0 1 1 1 1 0 1 1 0 1
+    1 1 1 1 1 1 1 0 1 0
+    1 1 0 1 1 0 0 1 1 1
+    1 1 1 1 0 0 1 1 1 1
+    1 1 0 0 1 0 1 1 1 1
+    1 1 1 1 1 1 1 0 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 408419 4| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    0 1 0 1 1 0 1 1 1 1
+    1 1 1 1 1 1 0 0 1 1
+    1 1 0 1 1 1 1 1 1 1
+    0 1 1 1 1 0 0 1 1 1
+    1 1 1 1 1 1 1 1 1 0
+    0 1 1 0 1 1 1 0 1 1
+    1 1 1 1 1 0 0 0 0 1
+    0 1 1 1 1 1 1 1 1 1
+    1 0 1 1 1 1 1 1 1 1
+    1 1 1 0 1 1 0 1 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 333812 5| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 0 0 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 0 1
+    1 1 1 1 1 1 1 1 0 1
+    1 1 1 1 1 1 1 0 0 1
+    1 0 0 0 0 1 0 1 1 1
+    1 0 1 1 1 1 1 1 1 1
+    1 1 0 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 0
+    0 1 0 1 1 0 1 1 0 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 356728 6| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 0 1
+    1 0 1 1 1 1 1 1 1 1
+    0 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 0 1 1 1 0
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 0 1 1 1 1 1 0
+    1 0 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 5
+>>> print(os.popen('echo 355412 7| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 0 1 1 1 1 1 1 1 1
+    1 0 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 0 1 1 1
+    0 1 0 1 1 1 1 1 1 0
+    1 1 1 1 1 1 1 1 1 0
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 0 1 1 1 1 0 1
+    0 1 1 1 1 1 1 0 1 1
+    1 1 1 1 1 0 1 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 367577 8| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 0 0 1
+    1 0 0 0 1 1 1 1 1 1
+    0 1 1 1 1 1 0 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 0 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 0
+    1 1 1 1 1 1 1 0 0 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 5
+>>> print(os.popen('echo 341290 1| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 0 1 1 1 1 1 1 0
+    1 0 1 1 1 1 1 1 0 1
+    1 0 0 0 0 0 1 1 1 1
+    0 1 0 0 0 0 1 1 1 0
+    0 0 0 1 0 1 0 1 1 1
+    1 0 0 1 1 1 1 1 1 0
+    0 0 1 1 0 0 1 1 1 0
+    1 0 1 1 1 1 1 0 0 0
+    0 1 1 1 1 1 1 0 1 0
+    0 0 1 0 1 0 1 1 0 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 371535 2| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 0 0 1 1 1 0
+    0 0 1 0 0 1 0 0 1 0
+    1 1 1 1 1 1 0 1 1 1
+    1 0 1 0 1 1 1 0 0 1
+    1 0 1 1 1 0 0 0 0 1
+    1 1 1 1 1 0 1 1 0 1
+    0 1 1 1 1 1 0 1 1 1
+    0 1 0 1 1 1 1 1 1 0
+    1 0 0 1 1 1 1 0 0 1
+    1 1 0 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 370384 3| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 0 1 0 1 1 1 0 0 1
+    1 0 1 1 1 0 1 1 1 0
+    1 1 1 1 1 1 1 1 1 0
+    0 1 0 1 0 1 1 1 1 0
+    1 0 1 0 0 1 0 0 1 1
+    1 1 1 1 0 1 1 0 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 0 1 1 1 1 0 1 1 0
+    1 1 0 1 1 1 1 1 1 1
+    0 1 0 1 0 1 1 1 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 373957 4| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 0 1
+    1 1 0 1 1 1 1 1 1 1
+    1 1 1 1 0 1 1 1 1 1
+    1 1 1 0 0 1 1 1 0 1
+    1 1 0 1 0 1 1 0 1 0
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 0 1 1 1
+    1 1 1 1 1 1 1 1 1 0
+    1 0 1 1 1 1 1 1 0 1
+    0 1 1 1 0 0 1 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 349418 5| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 0 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 0 1 0 1 1 0 1 1
+    1 0 1 1 1 1 1 1 1 0
+    1 0 1 0 1 1 0 0 1 1
+    1 1 1 1 1 0 1 0 1 1
+    1 0 1 1 1 1 1 1 1 1
+    1 1 1 1 0 1 1 1 1 1
+    1 1 1 1 0 1 1 0 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 389454 6| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 0 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 0 1 0 1 0 1 1
+    1 0 1 1 1 1 1 1 1 1
+    0 1 1 1 1 1 1 0 1 1
+    1 1 1 1 1 1 0 1 1 1
+    1 1 1 1 1 1 1 0 0 1
+    1 1 1 1 1 0 1 0 1 1
+    0 0 1 1 1 1 1 0 1 0
+    0 1 0 0 1 0 1 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 330591 7| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 1 1
+    1 1 0 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 0 1 1
+    1 1 1 1 0 1 0 0 1 1
+    1 0 1 1 0 1 1 1 1 1
+    1 1 1 1 1 1 1 0 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 0 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    0 1 1 1 1 1 0 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 325259 8| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 0 1 1 1 1 0
+    1 0 0 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 0 1 1
+    0 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 0
+    1 1 1 1 1 0 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 0 1 1 1 1 0 1
+    1 1 1 1 1 1 1 0 1 1
+The largest isosceles triangle has a size of 5
+>>> print(os.popen('echo 324431 1| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 0 0 0 1 1 1 1 1 0
+    0 1 0 0 0 1 1 1 1 0
+    0 0 0 0 1 0 1 0 1 1
+    1 0 0 0 0 1 1 1 1 0
+    0 1 0 0 0 1 0 0 0 1
+    0 1 0 0 0 1 0 0 0 0
+    0 1 0 0 0 1 0 0 0 1
+    0 0 1 0 1 0 1 1 0 1
+    1 0 0 1 0 1 1 1 1 1
+    1 1 1 1 0 0 1 1 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 351623 2| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    0 0 0 1 0 0 1 0 0 1
+    1 0 1 0 1 0 1 1 0 0
+    0 1 1 1 0 0 0 1 1 0
+    0 1 1 1 1 1 1 0 1 1
+    0 1 0 0 1 1 1 0 1 0
+    1 1 0 0 1 1 0 1 0 1
+    0 1 1 1 1 1 1 0 0 1
+    0 1 0 0 1 0 0 1 0 1
+    0 1 1 1 1 1 0 1 1 1
+    1 1 0 0 0 0 1 0 1 1
+The largest isosceles triangle has a size of 2
+>>> print(os.popen('echo 393617 3| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 0 1 1 1 1 0 1 1 1
+    1 1 0 1 1 1 1 1 1 1
+    0 1 1 1 0 1 1 1 1 1
+    0 1 0 1 1 1 1 1 0 1
+    1 0 1 0 1 1 0 1 1 1
+    1 1 1 0 0 0 1 1 1 1
+    1 1 1 1 1 0 1 1 1 1
+    1 1 1 1 1 1 0 0 0 1
+    1 1 0 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 3
+>>> print(os.popen('echo 381455 4| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 0 1
     1 1 1 1 0 1 1 1 1 1
     1 1 1 1 1 1 1 1 1 1
+    0 1 1 1 1 1 1 1 1 1
+    1 0 1 1 1 1 1 1 1 0
     1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 0
+    1 1 1 1 0 1 1 1 0 1
+    1 1 0 1 1 1 1 1 1 1
+    0 1 0 0 1 1 1 1 1 1
+    1 0 1 1 1 0 1 1 1 1
 The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 67 103| python3 quiz_6.py').read(), end='')
+>>> print(os.popen('echo 416134 5| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    0 0 0 1 1 1 1 1 1 1
+    1 0 1 0 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 0 1 1 1 1
+    1 0 1 1 1 1 0 1 0 1
+    1 1 1 1 1 0 1 1 1 0
+    1 1 1 1 1 1 0 0 0 1
+    1 0 0 0 1 1 1 0 1 1
+    1 0 0 1 1 1 1 0 1 1
+    1 0 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 411053 6| python3 quiz_6.py').read(), end='')
+Enter two integers: Here is the grid that has been generated:
+    1 0 1 1 1 1 1 1 1 1
+    1 1 1 1 0 0 1 1 1 1
+    1 1 1 1 1 1 1 0 0 1
+    1 1 1 1 0 1 1 1 1 1
+    1 1 1 0 1 1 1 1 0 1
+    1 1 0 1 1 1 1 1 0 1
+    1 1 1 1 0 1 1 0 1 1
+    1 1 0 1 1 1 1 1 1 0
+    1 1 1 1 0 1 1 0 1 1
+    0 1 1 1 1 1 1 1 1 1
+The largest isosceles triangle has a size of 4
+>>> print(os.popen('echo 387673 7| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
     1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 0 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 0 1
-    1 1 1 1 1 1 0 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 67 104| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 0 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 0
+    0 1 1 0 1 1 1 0 1 1
+    0 1 1 1 1 1 1 1 1 1
     1 1 1 1 1 1 1 0 1 1
     1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 67 105| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 0 0 0 1 1
+    1 1 1 0 1 1 1 1 1 1
     1 0 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 0
-    1 1 1 1 1 1 1 0 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 67 106| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 0 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 0
-    1 1 1 1 1 1 1 0 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 67 107| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 0 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 0
-    1 1 1 1 1 1 1 0 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 84 108| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 0 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 84 109| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 0 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 84 110| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 0 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 84 111| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 0 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 84 112| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 0 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 84 113| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 0 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 51 114| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 0 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 51 115| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 0 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 51 116| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 0 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 51 117| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 0 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
->>> print(os.popen('echo 51 118| python3 quiz_6.py').read(), end='')
-Enter two integers: Here is the grid that has been generated:
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 0
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1 1
-The largest isosceles triangle has a size of 5
+    1 1 0 1 1 1 1 1 1 1
+    1 1 1 0 1 0 1 1 1 1
+The largest isosceles triangle has a size of 4
 >>> print(os.popen('echo 0 100| python3 quiz_6.py').read(), end='')
 Enter two integers: Here is the grid that has been generated:
     1 1 1 1 1 1 1 1 1 1
