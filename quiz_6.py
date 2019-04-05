@@ -137,8 +137,8 @@ def triangle_size_as_corner(i, j, c, converter):
 
 
 try:
-    arg_for_seed, density = 0, 100
-    # arg_for_seed, density = (abs(int(x)) for x in input('Enter two integers: ').split())
+    # arg_for_seed, density = 0, 100
+    arg_for_seed, density = (abs(int(x)) for x in input('Enter two integers: ').split())
 except ValueError:
     print('Incorrect input, giving up.')
     sys.exit()

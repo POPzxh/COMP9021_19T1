@@ -14,7 +14,7 @@
 
 Quiz and assignment of UNSW COMP9021 19T1
 
-### 9021都学不明白，求求你了趁早转专业吧
+#### 9021都学不明白，求求你了趁早转专业吧
 
 仅供学习交流，**不得**作为作业提交，被查重本人概不负责
 
@@ -23,9 +23,11 @@ This repository only for giving you some hints. Please **DO NOT** submit those c
 代码千万条，自律第一条，借鉴不规范，亲人两行泪
 (Codes are countless, Honest is foremost, Academic misconduct, Loved ones end up in tears)
 
----
+## 排他性
 
-### 退掉广告群
+本repository禁止传播到任何和Dueape有关的社区（包括但不仅限于微信群、QQ群、论坛），希望大家遵守这个没有约束的约束
+
+## 退掉广告群
 
 ![](f0Q5-it0sZ1eT3cSvx-18g.jpeg)
 
