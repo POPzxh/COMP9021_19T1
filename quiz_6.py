@@ -115,10 +115,12 @@ def size_in_one_attitude(converter):
                 connected_nonzero += 1
             else:
                 connected_nonzero = 0
-            # print(triangle_size_as_corner(i, j, connected_nonzero), end=' ')
+                continue
+            # print(triangle_size_as_corner(i, j, connected_nonzero, converter), end=' ')
             size = triangle_size_as_corner(i, j, connected_nonzero, converter)
             if largest_size < size:
                 largest_size = size
+        # print()
     return largest_size
 
 
