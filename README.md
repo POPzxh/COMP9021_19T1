@@ -31,7 +31,7 @@ This repository only for giving you some hints. Please **DO NOT** submit those c
 
 ![](f0Q5-it0sZ1eT3cSvx-18g.jpeg)
 
-聊天记录我就不贴了，有兴趣的看新上传的截图吧。
+聊天记录我就不贴了，有兴趣的看[新上传的截图](https://github.com/tiancaiji/COMP9021_19T1/tree/master/%E8%81%8A%E5%A4%A9%E6%88%AA%E5%9B%BE)吧。
 
 补习班也要恰饭我当然懂啦，但qiu qiu你不要装得这么正经啦。
 
