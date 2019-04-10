@@ -1,3 +1,5 @@
+### [重要 IMPORTANT (click)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
+
 # 欢迎大家加零广告学习交流群
 
 目前群里有接近90个人，这里有思路分析（due前）和代码分享（due后），最最最重要的是**没有广告**。
