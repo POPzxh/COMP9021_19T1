@@ -11,7 +11,6 @@
 #
 # Written by *** and Eric Martin for COMP9021
 
-
 from collections import namedtuple
 import numpy as np
 from random import seed, randrange
@@ -44,17 +43,24 @@ def nb_of_good_paths(pt_1, pt_2, state):
     if pt_1 == pt_2:
         return 1
     grid[pt_1.y][pt_1.x] = 0
-    number = sum(
-        # ↓↓↓我是故意的↓↓↓ 想抄代码先听课
-        nb_of_good_paths(op[1](pt_1), pt_2, (op[0], 1 if state[0] != op[0] else state[1]+1))
-        for op in operation.items() if state[0] != op[0] or state[1] < 2
-    )
+    # number = sum(
+    #     # ↓↓↓我是故意的↓↓↓ 想抄代码先听课
+    #     nb_of_good_paths(op[1](pt_1), pt_2, (op[0], 1 if state[0] != op[0] else state[1]+1))
+    #     for op in operation.items() if state[0] != op[0] or state[1] < 2
+    # )
+    number = 0
+    for op in operation.items():
+        if state[0] != op[0]:
+            number += nb_of_good_paths(op[1](pt_1), pt_2, (op[0], 1))
+        elif state[1] < 2:
+            number += nb_of_good_paths(op[1](pt_1), pt_2, (op[0], state[1]+1))
     grid[pt_1.y][pt_1.x] = 1
     return number
 
 
 def get_value_of_point(pt):
-    if not valid(pt): return 0
+    if not valid(pt):
+        return 0
     return grid[pt.y][pt.x]
 
 
