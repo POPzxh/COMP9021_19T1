@@ -37,7 +37,7 @@ operation = {
 
 
 # 没办法了，只能改函数签名了
-def nb_of_good_paths(pt_1, pt_2, state):
+def nb_of_good_paths(pt_1, pt_2, state=(None, None)):
     if get_value_of_point(pt_1) == 0:
         return 0
     if pt_1 == pt_2:
@@ -93,7 +93,7 @@ print('Will compute the number of good paths '
       f'from ({pt_1.x}, {pt_1.y}) to ({pt_2.x}, {pt_2.y})...'
       )
 
-paths_nb = nb_of_good_paths(pt_1, pt_2, (None, None))
+paths_nb = nb_of_good_paths(pt_1, pt_2)
 
 if not paths_nb:
     print('There is no good path.')
