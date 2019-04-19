@@ -158,8 +158,6 @@ x
 >>> print(p)
 2x^3 + 2x - 4
 >>> p = Polynomial('4x^5 - x^2 + 6')
->>> print(p)
-4x^5 - x^2 + 6
 >>> print(p * Polynomial('x^3 - x + 4'))
 4x^8 - 4x^6 + 15x^5 + 7x^3 - 4x^2 - 6x + 24
 >>> print(p)
@@ -170,6 +168,8 @@ x
 >>> p = Polynomial('x^4 - x^3 + x^2 - x')
 >>> print(p * Polynomial('-2x^3 + 3x^2 - 4x + 5'))
 -2x^7 + 5x^6 - 9x^5 + 14x^4 - 12x^3 + 9x^2 - 5x
+>>> print(p)
+x^4 - x^3 + x^2 - x
 >>> p *= Polynomial('-2x^3 + 3x^2 - 4x + 5')
 >>> print(p)
 -2x^7 + 5x^6 - 9x^5 + 14x^4 - 12x^3 + 9x^2 - 5x
