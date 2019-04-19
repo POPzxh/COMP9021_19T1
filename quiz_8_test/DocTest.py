@@ -1,205 +1,137 @@
 """
->>> from quiz_8 import *
->>> a = Polynomial()
->>> print(a)
+>>> print(Polynomial())
 0
->>> a = Polynomial('2')
->>> print(a)
+>>> print(Polynomial('2'))
 2
->>> a = Polynomial('0')
->>> print(a)
+>>> print(Polynomial('0'))
 0
->>> a = Polynomial('x')
->>> print(a)
+>>> print(Polynomial('x'))
 x
->>> a = Polynomial('2x')
->>> print(a)
+>>> print(Polynomial('2x'))
 2x
->>> a = Polynomial('x^2')
->>> print(a)
+>>> print(Polynomial('x^2'))
 x^2
->>> a = Polynomial('2x^2')
->>> print(a)
+>>> print(Polynomial('2x^2'))
 2x^2
->>> a = Polynomial('x + 1')
->>> print(a)
+>>> print(Polynomial('x + 1'))
 x + 1
->>> a = Polynomial('2x + 1')
->>> print(a)
+>>> print(Polynomial('2x + 1'))
 2x + 1
->>> a = Polynomial('x^2 + 1')
->>> print(a)
+>>> print(Polynomial('x^2 + 1'))
 x^2 + 1
->>> a = Polynomial('2x^2 + 1')
->>> print(a)
+>>> print(Polynomial('2x^2 + 1'))
 2x^2 + 1
->>> a = Polynomial('x^3 + x + 1')
->>> print(a)
+>>> print(Polynomial('x^3 + x + 1'))
 x^3 + x + 1
->>> a = Polynomial('x^3 + 2x + 1')
->>> print(a)
+>>> print(Polynomial('x^3 + 2x + 1'))
 x^3 + 2x + 1
->>> a = Polynomial('x^3 + x^2 + 1')
->>> print(a)
+>>> print(Polynomial('x^3 + x^2 + 1'))
 x^3 + x^2 + 1
->>> a = Polynomial('x^3 + 2x^2 + 1')
->>> print(a)
+>>> print(Polynomial('x^3 + 2x^2 + 1'))
 x^3 + 2x^2 + 1
->>> a = Polynomial('2x^3 + x + 1')
->>> print(a)
+>>> print(Polynomial('2x^3 + x + 1'))
 2x^3 + x + 1
->>> a = Polynomial('2x^3 + 2x + 1')
->>> print(a)
+>>> print(Polynomial('2x^3 + 2x + 1'))
 2x^3 + 2x + 1
->>> a = Polynomial('2x^3 + x^2 + 1')
->>> print(a)
+>>> print(Polynomial('2x^3 + x^2 + 1'))
 2x^3 + x^2 + 1
->>> a = Polynomial('2x^3 + 2x^2 + 1')
->>> print(a)
+>>> print(Polynomial('2x^3 + 2x^2 + 1'))
 2x^3 + 2x^2 + 1
->>> a = Polynomial('x^3 - x + 1')
->>> print(a)
+>>> print(Polynomial('x^3 - x + 1'))
 x^3 - x + 1
->>> a = Polynomial('x^3 - 2x + 1')
->>> print(a)
+>>> print(Polynomial('x^3 - 2x + 1'))
 x^3 - 2x + 1
->>> a = Polynomial('x^3 - x^2 + 1')
->>> print(a)
+>>> print(Polynomial('x^3 - x^2 + 1'))
 x^3 - x^2 + 1
->>> a = Polynomial('x^3 - 2x^2 + 1')
->>> print(a)
+>>> print(Polynomial('x^3 - 2x^2 + 1'))
 x^3 - 2x^2 + 1
->>> a = Polynomial('2x^3 - x + 1')
->>> print(a)
+>>> print(Polynomial('2x^3 - x + 1'))
 2x^3 - x + 1
->>> a = Polynomial('2x^3 - 2x + 1')
->>> print(a)
+>>> print(Polynomial('2x^3 - 2x + 1'))
 2x^3 - 2x + 1
->>> a = Polynomial('2x^3 - x^2 + 1')
->>> print(a)
+>>> print(Polynomial('2x^3 - x^2 + 1'))
 2x^3 - x^2 + 1
->>> a = Polynomial('2x^3 - 2x^2 + 1')
->>> print(a)
+>>> print(Polynomial('2x^3 - 2x^2 + 1'))
 2x^3 - 2x^2 + 1
->>> a = Polynomial('x^3 + x')
->>> print(a)
+>>> print(Polynomial('x^3 + x'))
 x^3 + x
->>> a = Polynomial('x^3 + 2x')
->>> print(a)
+>>> print(Polynomial('x^3 + 2x'))
 x^3 + 2x
->>> a = Polynomial('x^3 + x^2')
->>> print(a)
+>>> print(Polynomial('x^3 + x^2'))
 x^3 + x^2
->>> a = Polynomial('x^3 + 2x^2')
->>> print(a)
+>>> print(Polynomial('x^3 + 2x^2'))
 x^3 + 2x^2
->>> a = Polynomial('2x^3 + x')
->>> print(a)
+>>> print(Polynomial('2x^3 + x'))
 2x^3 + x
->>> a = Polynomial('2x^3 + 2x')
->>> print(a)
+>>> print(Polynomial('2x^3 + 2x'))
 2x^3 + 2x
->>> a = Polynomial('2x^3 + x^2')
->>> print(a)
+>>> print(Polynomial('2x^3 + x^2'))
 2x^3 + x^2
->>> a = Polynomial('2x^3 + 2x^2')
->>> print(a)
+>>> print(Polynomial('2x^3 + 2x^2'))
 2x^3 + 2x^2
->>> a = Polynomial('-x')
->>> print(a)
+>>> print(Polynomial('-x'))
 -x
->>> a = Polynomial('-2x')
->>> print(a)
+>>> print(Polynomial('-2x'))
 -2x
->>> a = Polynomial('-x^2')
->>> print(a)
+>>> print(Polynomial('-x^2'))
 -x^2
->>> a = Polynomial('-2x^2')
->>> print(a)
+>>> print(Polynomial('-2x^2'))
 -2x^2
->>> a = Polynomial('-x - 1')
->>> print(a)
+>>> print(Polynomial('-x - 1'))
 -x - 1
->>> a = Polynomial('-2x - 1')
->>> print(a)
+>>> print(Polynomial('-2x - 1'))
 -2x - 1
->>> a = Polynomial('-x^2 - 1')
->>> print(a)
+>>> print(Polynomial('-x^2 - 1'))
 -x^2 - 1
->>> a = Polynomial('-2x^2 - 1')
->>> print(a)
+>>> print(Polynomial('-2x^2 - 1'))
 -2x^2 - 1
->>> a = Polynomial('-x^3 - x - 1')
->>> print(a)
+>>> print(Polynomial('-x^3 - x - 1'))
 -x^3 - x - 1
->>> a = Polynomial('-x^3 - 2x - 1')
->>> print(a)
+>>> print(Polynomial('-x^3 - 2x - 1'))
 -x^3 - 2x - 1
->>> a = Polynomial('-x^3 - x^2 - 1')
->>> print(a)
+>>> print(Polynomial('-x^3 - x^2 - 1'))
 -x^3 - x^2 - 1
->>> a = Polynomial('-x^3 - 2x^2 - 1')
->>> print(a)
+>>> print(Polynomial('-x^3 - 2x^2 - 1'))
 -x^3 - 2x^2 - 1
->>> a = Polynomial('-2x^3 - x - 1')
->>> print(a)
+>>> print(Polynomial('-2x^3 - x - 1'))
 -2x^3 - x - 1
->>> a = Polynomial('-2x^3 - 2x - 1')
->>> print(a)
+>>> print(Polynomial('-2x^3 - 2x - 1'))
 -2x^3 - 2x - 1
->>> a = Polynomial('-2x^3 - x^2 - 1')
->>> print(a)
+>>> print(Polynomial('-2x^3 - x^2 - 1'))
 -2x^3 - x^2 - 1
->>> a = Polynomial('-2x^3 - 2x^2 - 1')
->>> print(a)
+>>> print(Polynomial('-2x^3 - 2x^2 - 1'))
 -2x^3 - 2x^2 - 1
->>> a = Polynomial('-x^3 + x - 1')
->>> print(a)
+>>> print(Polynomial('-x^3 + x - 1'))
 -x^3 + x - 1
->>> a = Polynomial('-x^3 + 2x - 1')
->>> print(a)
+>>> print(Polynomial('-x^3 + 2x - 1'))
 -x^3 + 2x - 1
->>> a = Polynomial('-x^3 + x^2 - 1')
->>> print(a)
+>>> print(Polynomial('-x^3 + x^2 - 1'))
 -x^3 + x^2 - 1
->>> a = Polynomial('-x^3 + 2x^2 - 1')
->>> print(a)
+>>> print(Polynomial('-x^3 + 2x^2 - 1'))
 -x^3 + 2x^2 - 1
->>> a = Polynomial('-2x^3 + x - 1')
->>> print(a)
+>>> print(Polynomial('-2x^3 + x - 1'))
 -2x^3 + x - 1
->>> a = Polynomial('-2x^3 + 2x - 1')
->>> print(a)
+>>> print(Polynomial('-2x^3 + 2x - 1'))
 -2x^3 + 2x - 1
->>> a = Polynomial('-2x^3 + x^2 - 1')
->>> print(a)
+>>> print(Polynomial('-2x^3 + x^2 - 1'))
 -2x^3 + x^2 - 1
->>> a = Polynomial('-2x^3 + 2x^2 - 1')
->>> print(a)
+>>> print(Polynomial('-2x^3 + 2x^2 - 1'))
 -2x^3 + 2x^2 - 1
->>> a = Polynomial('-x^3 - x')
->>> print(a)
+>>> print(Polynomial('-x^3 - x'))
 -x^3 - x
->>> a = Polynomial('-x^3 - 2x')
->>> print(a)
+>>> print(Polynomial('-x^3 - 2x'))
 -x^3 - 2x
->>> a = Polynomial('-x^3 - x^2')
->>> print(a)
+>>> print(Polynomial('-x^3 - x^2'))
 -x^3 - x^2
->>> a = Polynomial('-x^3 - 2x^2')
->>> print(a)
+>>> print(Polynomial('-x^3 - 2x^2'))
 -x^3 - 2x^2
->>> a = Polynomial('-2x^3 - x')
->>> print(a)
+>>> print(Polynomial('-2x^3 - x'))
 -2x^3 - x
->>> a = Polynomial('-2x^3 - 2x')
->>> print(a)
+>>> print(Polynomial('-2x^3 - 2x'))
 -2x^3 - 2x
->>> a = Polynomial('-2x^3 - x^2')
->>> print(a)
+>>> print(Polynomial('-2x^3 - x^2'))
 -2x^3 - x^2
->>> a = Polynomial('-2x^3 - 2x^2')
->>> print(a)
+>>> print(Polynomial('-2x^3 - 2x^2'))
 -2x^3 - 2x^2
 >>> p = Polynomial()
 >>> print(p + Polynomial('2'))
@@ -256,6 +188,8 @@ x
 >>> print(Polynomial('-x^2 + x + 5')+Polynomial('x^2 + x + 5'))
 2x + 10
 """
+
+from quiz_8 import *
 if __name__ == '__main__':
     import doctest
     print('Test Start......')
