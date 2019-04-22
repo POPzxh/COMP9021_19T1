@@ -8,7 +8,7 @@
 # Written by *** and Eric Martin for COMP9021
 
 # 惭愧惭愧，代码写的一点都不优雅。为了保持可读性，不少地方的判断语句会重复
-
+# 不要只看答案哦，测试脚本放在quiz_8_test里了
 from collections import defaultdict
 from copy import deepcopy
 
