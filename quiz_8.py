@@ -59,10 +59,10 @@ class Polynomial:
             c.datagram[i[0]] += i[1]
         return c
 
-    def __iadd__(self, other):
-        for i in other.datagram.items():
-            self.datagram[i[0]] += i[1]
-        return self
+    # def __iadd__(self, other):
+    #     for i in other.datagram.items():
+    #         self.datagram[i[0]] += i[1]
+    #     return self
 
     def __mul__(self, other):
         p = Polynomial()
@@ -71,13 +71,13 @@ class Polynomial:
                 p.datagram[i[0]+j[0]] += i[1]*j[1]
         return p
 
-    def __imul__(self, other):
-        c = defaultdict(int)
-        for i in self.datagram.items():
-            for j in other.datagram.items():
-                c[i[0]+j[0]] += i[1]*j[1]
-        self.datagram = c
-        return self
+    # def __imul__(self, other):
+    #     c = defaultdict(int)
+    #     for i in self.datagram.items():
+    #         for j in other.datagram.items():
+    #             c[i[0]+j[0]] += i[1]*j[1]
+    #     self.datagram = c
+    #     return self
 
     def __get_element(self, p, f):
         # Inverse function of __analyse_splited_polynomial(self, ele)
